@@ -10,4 +10,4 @@ while chances>0:
     else:
         print("you couldn't guess the numebr correctly TRY AGAIN!")
         chances -= 1
-        
+        #thank you🥳
